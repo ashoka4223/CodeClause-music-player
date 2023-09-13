@@ -1,4 +1,4 @@
-# CodeClause-music-player
+# Basic Responsive Music Player
 Sample Responsive music player build with HTML, CSS, JavaScript.
 ## Features
 - Pause music
