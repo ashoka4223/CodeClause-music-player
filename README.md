@@ -5,10 +5,12 @@ Sample Responsive music player build with HTML, CSS, JavaScript.
 - play next and prievous music
 - Set volume
   ## To run locally
+   ```
    > Install live server extension in vs code
    > git clone https://github.com/ashoka4223/CodeClause-music-player.git
-    > cd CodeClause-music-player/
-    > click on Go live in bottom right corner.
+   > cd CodeClause-music-player/
+   > click on Go live in bottom right corner.
+   ```
 
    
 
